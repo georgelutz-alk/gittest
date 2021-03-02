@@ -1,0 +1,50 @@
+git switch master
+git branch
+git switch exp
+get switch master
+git switch master
+git merge exp
+git diff
+git status
+gitk
+git commit -a
+git status
+git push
+git branch -d exp
+gitk
+git branch exp2
+git branch
+git branch exp3
+gitk
+git switch exp3
+git status
+git add .
+git commit --message "add file 3"
+gitk
+git branch
+git commit --message "touch file 3"
+git status
+git add
+git add .
+git commit --message "touch file 3"
+gitk
+git branch exp4
+git branch -d exp4
+git status
+git branch
+git switch master
+git merge exp3
+git status
+git push
+doskey /HISTORY
+doskey /HISTORY > gitcmds.txt
+git status
+git commit -a
+git add .
+git commit --message "new cmds"
+git push
+git branch -d exp3
+dir
+git branch
+git switch exp2
+doskey /HISTORY > gitcmds2.txt
