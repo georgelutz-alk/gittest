@@ -1,0 +1,50 @@
+tracert alk.com georgeandlauradinners.com
+tracert alk.com lauraandgeorgedinners.com
+tracert lauraandgeorgedinners.com
+   ssh -i "mynewkeypair.pem" ec2-user@3.137.166.61
+echo %JAVA_HOME%
+echo %JAVA_HOME
+echo %JAVA_HOME%
+echo
+set
+java
+java -v
+java -version
+set
+git 
+git checkout https://github.com/kapnik1517/rchidana-Hello_Java.git
+git help
+git help git
+git help checkout
+cd \
+cd devel
+git checkout https://github.com/georgelutz-alk/onmanagement.git
+ls
+dir
+git help checkout
+git clone https://github.com/georgelutz-alk/onmanagement.git
+git config
+git config  --get-all
+cls
+git config  --get-all
+git config --global user.name "georgelutz-alk"
+git config --global user.email "george.lutz@gmail.com"
+mkdir gittest
+cd gittest
+git init
+git add .
+git commit
+git commit --message "whatever"
+git status
+git log
+git log --stat --summary
+git push
+git remote add origin https://github.com/georgelutz-alk/gittest.git
+git remote -v
+git push 
+get push --set-upstream origin master
+git push --set-upstream origin master
+history
+hist
+doskey /HISTORY
+doskey /HISTORY > ../gitstarters.txt
